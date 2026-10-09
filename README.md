@@ -9,6 +9,9 @@ Software Engineering group project for CS 250.
 - Jhef Grover Quiambao
 - Michael Farella
 - Dillon Holden
+- Zhoubin Nazari Boukani
+
+
 
 ## Project
 This repository contains the Software Requirements Specification and
